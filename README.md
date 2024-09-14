@@ -1,6 +1,8 @@
 <h1 align="center">Всем привет!👋 Меня зовут Ильдар. Я начинающий C++ разработчик. Рад знакомству :)<br><br></h1>
 <p align="center"><img src="./img/DaaS-Final1.png" width="50%"></p>
 
+<div style=" font-size: small; color: #447ff7" align=center>
+
 ## 👨🏻‍💻 Обо мне
 
 • 🧠 Обучаюсь в Нетологии на курсе "Разработчик на C++"
