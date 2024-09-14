@@ -16,13 +16,11 @@
 
 ## 🤳🏼 Связь со мной
 
-<div align="center">
 </a> <a href="https://t.me/ofrabugs" target="_blank" rel="noreferrer">
  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"></a>
 </div>
 
 ## 💻 Используемый стек и инструменты 🛠️
-<div align="center">
 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="40" height="40"/>
